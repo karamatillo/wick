@@ -7,6 +7,7 @@ from rest_framework.permissions import IsAuthenticated
 from rest_framework_simplejwt.authentication import JWTAuthentication
 
 
+#first name
 from .models import Information, Banner, AboutUs, Degree, Faculty, Regions, University, HowWork, Student, Application, \
     Testimonials, ContactUs
 
